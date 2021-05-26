@@ -1,1 +1,1 @@
-# GarfieldHub
+# GarfieldBlog
